@@ -6,11 +6,11 @@ Um e-book gerado por Inteligencia Artifical que te leva passo a passo ao domnín
 
 Este projeto teve como objetivo entender a aplicação das inteligências artificiais na produção e criação de conteúdo
 
-📕 Clique aqui para acessar o E-book completo
+📕 [Clique aqui para acessar o E-book completo!](https://github.com/anagalli/E-book-Speak-Like-a-Pro/blob/main/E-book%20-%20Speak%20Like%20a%20Pro.pdf)
 
 # 💻 Tecnologias utilizadas no projeto
-- ChatGPT para geração de conteúdo
-- Adobe Firefly para geração da imagem de capa
+- [ChatGPT](https://chatgpt.com/) para geração de conteúdo
+- [Adobe Firefly](https://firefly.adobe.com/) para geração da imagem de capa
 - InDesign para diagramação
 
 # 🧠 Prompts utilizados
